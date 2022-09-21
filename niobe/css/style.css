@@ -1041,23 +1041,23 @@ body.panel-closing .views {
 
 .toolbar-icon a {
   display: block;
-  width: 12%;
+  width: 15%;
   margin: 0;
-  padding: 1% 6.5%;
+  padding: 1% 9%;
   float: left;
   height: auto;
   text-align: center; }
 
 .toolbar-icon a img {
   display: block;
-  max-width: 70%;
+  max-width: 60%;
   margin: 0 auto 0 auto;
   text-align: center; }
 
 .toolbar-icon a span {
   color: #fff;
   font-weight: 400;
-  font-size: 14px; }
+  font-size: 15px; }
 
 .slider_trans {
   position: absolute;
@@ -3268,7 +3268,7 @@ ul.responsive_table li:first-child {
   .swiper-container-toolbar {
     height: 60px; }
   .toolbar-icon a span {
-    font-size: 10px; }
+    font-size: 14px; }
   h2.page_title {
     font-size: 20px; }
   .bottombarpages {
